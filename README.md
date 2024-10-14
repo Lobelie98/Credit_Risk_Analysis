@@ -22,3 +22,5 @@ While Home Credit is currently using various statistical and machine learning me
 **installments_payments.csv :** Repayment history for the previously disbursed credits in Home Credit related to the loans in our sample. There is a) one row for every payment that was made plus b) one row each for missed payment. One row is equivalent to one payment of one installment OR one installment corresponding to one payment of one previous Home Credit credit related to loans in our sample.
 
 **HomeCredit_columns_description.csv :** This file contains descriptions for the columns in the various data files.
+
+![image](https://github.com/user-attachments/assets/c46c633d-3cba-409c-8e50-2d46841929b2)
